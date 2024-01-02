@@ -84,23 +84,6 @@
         `;
       }
 
-    document.getElementById("next-button").addEventListener("click", function() {
-      const selectedChoice = document.querySelector('input[name="choice"]:checked');
-      if (selectedChoice) {
-        if (parseInt(selectedChoice.value) === quizData[currentQuestion].correctAnswer) {
-          userScore++;
-        }
-        currentQuestion++;
-        if (currentQuestion < quizData.length) {
-          loadQuestion();
-        } else {
-          showResult();
-        }
-      } else {
-        alert("Please select an answer before moving to the next question.");
-      }
-    });
-  
       function showResult() {
         quizContainer.innerHTML = '';
         resultContainer.classList.remove('hidden');
