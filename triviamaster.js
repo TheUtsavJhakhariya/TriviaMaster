@@ -109,12 +109,9 @@
           }
         }
       }
-  
-      // Event listeners
       nextButton.addEventListener('click', loadQuestion);
       submitButton.addEventListener('click', checkAnswer);
-  
-      // Initial question load
+
       loadQuestion();
     });
   
