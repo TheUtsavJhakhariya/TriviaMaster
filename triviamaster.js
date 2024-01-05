@@ -17,7 +17,7 @@
         choices: ["Thor", "Hawkeye", "Black Widow", "Captain America"],
         correctAnswer: "Captain America"
     },
-    {
+    { 
         question: "Who directed the movie 'Black Panther'?",
         choices: ["James Gunn", "Ryan Coogler", "Joss Whedon", "Taika Waititi"],
         correctAnswer: "Ryan Coogler"
