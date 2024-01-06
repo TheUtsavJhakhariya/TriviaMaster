@@ -15,7 +15,7 @@
     {
         question: "Which of the following superheroes wields a shield made of vibranium?",
         choices: ["Thor", "Hawkeye", "Black Widow", "Captain America"], 
-        correctAnswer: "Captain America"
+        correctAnswer: "Captain America" 
     },
     {  
         question: "Who directed the movie 'Black Panther'?", 
