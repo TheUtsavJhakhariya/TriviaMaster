@@ -8,7 +8,7 @@
     },
     {
         question: "Who is the main antagonist in the movie 'Avengers: Infinity War'?",
-        choices: ["Loki", "Thanos", "Ultron", "Red Skull"], 
+        choices: ["Loki", "Thanos", "Ultron", "Red Skull"],  
         correctAnswer: "Thanos" 
     },
 
