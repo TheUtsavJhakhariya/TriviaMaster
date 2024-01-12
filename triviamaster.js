@@ -11,7 +11,7 @@
         choices: ["Loki", "Thanos", "Ultron", "Red Skull"],  
         correctAnswer: "Thanos" 
     },
- 
+  
     {
         question: "Which of the following superheroes wields a shield made of vibranium?",
         choices: ["Thor", "Hawkeye", "Black Widow", "Captain America"], 
