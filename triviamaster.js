@@ -3,7 +3,7 @@
       const quizData = [
     {
         question: "In which movie did the character Tony Stark make his first appearance in the Marvel Cinematic Universe (MCU)?",
-        choices: ["Iron Man", "The Avengers", "Thor", "Captain America: The First Avenger"], 
+        choices: ["Iron Man", "The Avengers", "Thor", "Captain America: The First Avenger"],  
         correctAnswer: "Iron Man"
     }, 
     {
