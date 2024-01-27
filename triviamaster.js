@@ -6,7 +6,7 @@
         choices: ["Iron Man", "The Avengers", "Thor", "Captain America: The First Avenger"],  
         correctAnswer: "Iron Man"
     }, 
-    {
+    { 
         question: "Who is the main antagonist in the movie 'Avengers: Infinity War'?",
         choices: ["Loki", "Thanos", "Ultron", "Red Skull"],    
         correctAnswer: "Thanos" 
