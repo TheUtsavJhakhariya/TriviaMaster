@@ -100,7 +100,7 @@
             userScore++;
           }
   
-          currentQuestionIndex++;
+          currentQuestionIndex++; 
   
           if (currentQuestionIndex < quizData.length) {
             loadQuestion();
